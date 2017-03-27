@@ -10,6 +10,11 @@ Installation steps using Anaconda are also given below.
 
 **For Windows:**
 
+Download the Anaconda installer from [here](http://continuum.io/downloads.html).
+Double-click the Anaconda installer and follow the prompts to install to the default location.
+NOTE: Install Anaconda to a directory path that does not contain spaces or unicode characters.
+NOTE: Do not install as Administrator unless admin privileges are required.
+NOTE: If you encounter any issues during installation, temporarily disable your anti-virus software during install, then immediately re-enable it. If you have installed for all users, uninstall Anaconda and re-install it for your user only and try again.
 
 **For MacOS:**
 
