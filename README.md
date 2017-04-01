@@ -6,7 +6,7 @@ This is the official github repository of DSE 220 (Spring'17).
 
 Jupyter can be installed using Anaconda or pip. Anaconda is recommended for new users. 
 You can follow the steps from [here](http://jupyter.readthedocs.io/en/latest/install.html).
-Installation steps using Anaconda are also given below. Note that we prefer Python 3.5/3.6.
+Installation steps using Anaconda are also given below. Note that we prefer Python 3.5/3.6. All sample iPython notebooks will use Python 3.5.
 
 **For Windows:**
 
