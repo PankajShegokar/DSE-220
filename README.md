@@ -25,10 +25,6 @@ Python 3.6 version
 bash Anaconda3-4.3.1-MacOSX-x86_64.sh 
 ```
 
-Python 2.7 version
-```
-bash Anaconda2-4.3.1-MacOSX-x86_64.sh 
-```
 
 **For Linux:**
 
@@ -38,11 +34,6 @@ bash Anaconda2-4.3.1-MacOSX-x86_64.sh
 Python 3.6 version
 ```
 bash Anaconda3-4.3.1-Linux-x86_64.sh
-```
-
-Python 2.7 version
-```
-bash Anaconda2-4.3.1-Linux-x86_64.sh
 ```
 
 **Run the notebook**:
