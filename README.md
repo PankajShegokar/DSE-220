@@ -5,7 +5,7 @@ This is the official github repository of DSE 220 (Spring'17).
 ### Useful links for Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-* [Git for Beginners] (https://www.sitepoint.com/git-for-beginners/)
+* [Git for Beginners](https://www.sitepoint.com/git-for-beginners/)
 
 
 ### Jupyter Notebook Installation Instructions
