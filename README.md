@@ -2,6 +2,12 @@
 
 This is the official github repository of DSE 220 (Spring'17).
 
+### Useful links for Git
+
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Git for Beginners] (https://www.sitepoint.com/git-for-beginners/)
+
+
 ### Jupyter Notebook Installation Instructions
 
 Jupyter can be installed using Anaconda or pip. Anaconda is recommended for new users. 
@@ -40,4 +46,12 @@ bash Anaconda3-4.3.1-Linux-x86_64.sh
 ```
 jupyter notebook
 ```
-More detailed [here](http://jupyter.readthedocs.io/en/latest/running.html#running)
+More detailed [here](http://jupyter.readthedocs.io/en/latest/running.html#running).
+
+NOTE: If you face the 'jupyter: command not found' error, you should activate your conda environment using the command below (For anaconda3).
+
+```
+export PATH=~/anaconda3/bin:$PATH
+```
+
+
