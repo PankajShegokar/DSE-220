@@ -61,7 +61,7 @@ If you wish to use both Python 2.7 and 3.6 on your system for some reason, it is
 conda update conda
 conda update anaconda
 ```
-Then, use the following comands to create two Python environments.
+Then, use the following commands to create two Python environments.
 
 ```
 conda create -n py27 python=2.7 ipykernel
