@@ -1,6 +1,6 @@
 ## DSE-220
 
-This is the official github repository of DSE 220 (Spring'17).
+This is the official github repository of DSE 220 (Spring'18).
 
 ### Useful links for Git
 
